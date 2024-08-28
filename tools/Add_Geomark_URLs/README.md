@@ -11,7 +11,7 @@ Jeff Kruys, jeff.kruys@gov.bc.ca, Spatial Data Analyst, Forest Investment and Re
 
 The Geomark Web Service takes a feature geometry as input and assigns it a unique URL. This URL can then be sent to another party as a representation of the geometry.
 
-This script tool will add a field named Geomark_URL to a spatial dataset that you select (FGDB feature class, shapefile etc.) and populate the field with a Geomark URL for each feature. There is one tool designed to work in ArcGIS Desktop 10.x (ArcCatalog or ArcMap), and another tool designed to work within ArcGIS Pro 3.x.
+This script tool will add a field named GeomarkURL to a spatial dataset that you select (FGDB feature class, shapefile etc.) and populate the field with a Geomark URL for each feature. There is one tool designed to work in ArcGIS Desktop 10.x (ArcCatalog or ArcMap), and another tool designed to work within ArcGIS Pro 3.x.
 
 # Usage
 
